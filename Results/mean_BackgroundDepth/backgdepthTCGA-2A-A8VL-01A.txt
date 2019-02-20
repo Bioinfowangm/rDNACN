@@ -1,0 +1,15 @@
+Chr	Region	NonAdjustDepth_mean	NonAdjustDepth_median	NonAdjustDepth_sd	AdjustDepth_mean	AdjustDepth_median	AdjustDepth_sd	Ratio_mean
+Combined	exon	24.2	1	42.88	24.22	1	42.91	1
+Combined	intron	3.47	0	10.52	3.47	0	10.52	1
+chr1	exon	25.09	1	43.91	25.67	1	44.85	0.98
+chr1	intron	3.76	0	10.82	3.86	0	11.06	0.98
+chr13	exon	22.91	0	43.27	22.98	0	43.4	1
+chr13	intron	3.27	0	10.07	3.28	0	10.1	1
+chr14	exon	26.43	1	43.34	26.43	1	43.34	1
+chr14	intron	3.43	0	10.5	3.43	0	10.5	1
+chr15	exon	27.37	1	46.07	27.3	1	45.95	1
+chr15	intron	3.72	0	11.36	3.71	0	11.33	1
+chr21	exon	20.89	0	40.8	21.41	0	41.59	0.97
+chr21	intron	3.09	0	9.3	3.17	0	9.51	0.97
+chr22	exon	19.23	1	36.97	19.12	0.99	36.75	1.01
+chr22	intron	3.62	0	10.44	3.6	0	10.38	1.01
